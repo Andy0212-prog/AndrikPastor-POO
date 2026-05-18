@@ -77,3 +77,6 @@ public class Ahorcado
         Console.ReadLine();
     }
 }
+//https://drive.google.com/file/d/1obv84Umcw5Y0IV9docbDEADlhgaAqxbX/view?usp=drivesdk
+//https://drive.google.com/file/d/1ilBnvpt9TgzP7FLxxTE2Y1VujGoY8nbF/view?usp=drivesdk
+//https://drive.google.com/file/d/1jCLcHfNMmqRHRtB_nj-Nh7mWQJHZTfsf/view?usp=drivesdk
